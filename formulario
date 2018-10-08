@@ -28,22 +28,14 @@
                 <label>Telefone</label>
                 <input name="" type="text" class="p" id="telefone">
 
-                <label>Celular</label>
-                <input name="" type="text" class="p" id="celular">
-
-                <label>Data de Nascimento</label>
+                
+		<label>Data de Nascimento</label>
                 <input name="" type="text" class="p" id="data">
 
                 <label>Data</label>
                 <input name="" type="text" class="p" id="datepicker1">
 
-                <label>Sexo</label>
-                <select name="" class="m">
-                  <option>Selecione</option>
-                  <option>Masculino</option>
-                  <option>Feminino</option>
-                </select>
-
+              
                 <label>CEP</label>
                 <input name="" type="text" class="p" id="cep">
 
@@ -81,23 +73,9 @@
                 
                 <label>Deixe a sua Mensagem</label>
                 <textarea name="" cols="10" rows="5" class="g"></textarea>
-
-                <ul>
-                    <p>Selecione uma opção</p>
-                    <li><input type="radio" name="grupo" value="">Opcao 1</li>
-                    <li><input type="radio" name="grupo" value="">Opcao 2</li>
-                    <li><input type="radio" name="grupo" value="">Opcao 3</li>
-                </ul>
-
-                <ul>
-                    <p>Selecione uma opcao</p>
-                    <li><input type="checkbox">Item 1</li>
-                    <li><input type="checkbox">Item 2</li>
-                    <li><input type="checkbox">Item 3</li>
-                </ul>
-
-
-                <input type="submit" value="Enviar">
+              
+                
+		<input type="submit" value="Enviar">
 
             </form>
     	</div><!--/formulario-->
